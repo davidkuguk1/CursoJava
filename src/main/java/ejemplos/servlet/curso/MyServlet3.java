@@ -10,6 +10,7 @@ import java.io.PrintWriter;
 
 /**
  * EJERCICIO 1 PARTE A
+ * David Kuguk
  */
 @WebServlet(urlPatterns = "/myServlet3")
 public class MyServlet3 extends HttpServlet {
